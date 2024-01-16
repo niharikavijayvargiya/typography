@@ -1,0 +1,19 @@
+
+h2{
+    margin-left: 450px;
+}
+img {
+    margin-left: 260px;
+}
+.data{
+    color:rgba(0,0,0,0.6);
+    margin-left: 450px;
+    margin-right: 450px;
+    text-align: left;
+}
+iframe {
+    border: solid grey;
+    border-width: 1.5px;
+    margin-bottom: 25px;
+
+}
